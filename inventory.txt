@@ -1,2 +1,2 @@
 [all]
-34.220.218.219
+ec2-34-220-218-219.us-west-2.compute.amazonaws.com
